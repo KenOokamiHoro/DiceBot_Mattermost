@@ -123,3 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# mmpy_bot config file.
+mmpy_bot_settings.py
+settings.py
+conf/
